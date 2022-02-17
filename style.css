@@ -59,24 +59,66 @@ header p {
 }
 
 .pad1 { 
-    background-color:indianred;
+    background-color:crimson;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
 }
 .pad2 {
-    background-color:lightseagreen
+    background-color:cornflowerblue;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
 }
 .pad3 {
-    background-color:mediumpurple;
+    background-color:palevioletred;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
 }
 .pad4 {
     background-color:midnightblue;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
 }
 .pad5 {
-    background-color:palevioletred;
-}
-.pad6 {
-    background-color:darkcyan;
-}
-.pad7 {
-    background-color:lightsteelblue
+    background-color:darkseagreen;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
 }
 
+.pad6 {
+    background-color:cadetblue;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
+}
+.pad7 {
+    background-color:teal;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
+}
+.pad8 {
+    background-color:darkcyan;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
+}   
+.pad9 {
+    background-color:mediumaquamarine;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
+} 
